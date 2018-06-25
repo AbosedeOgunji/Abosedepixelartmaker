@@ -10,6 +10,9 @@
 To get started, open `designs.js` and start building out the app's functionality.
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
+link to Abosedepixelartmaker
+https://abosedeogunji.github.io/Abosedepixelartmaker/
+
 the $('tr').remove(); method takes the elements out of the DOM. it is used to remove the element itself, as well as everything inside it.
 after a nestted for loop was used with a starting point of 1 and an end point of row and column respectively.
 for (var i = 1; i <= row; i++) {
